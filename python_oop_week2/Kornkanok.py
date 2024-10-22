@@ -1,0 +1,7 @@
+print("hello Python")
+print("กรกนก โกมาลา")
+print("ตอง")
+print("19")
+print("2")
+print("67319010023")
+print("ฟังเพลง")
